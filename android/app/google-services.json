@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973063477698",
+    "project_id": "fashtask",
+    "storage_bucket": "fashtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973063477698:android:232d041022c52bb7b05e5b",
+        "android_client_info": {
+          "package_name": "com.appclick.fashtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tUnoqXt9yVcb8Ufq2x1WrNQ4QTeLN_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
